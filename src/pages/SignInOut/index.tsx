@@ -1,5 +1,11 @@
+import { Container } from './styles';
+
 const SignInOut: React.FC = () => {
-  return <></>;
+  return (
+    <>
+      <Container>SingInOut</Container>
+    </>
+  );
 };
 
 export default SignInOut;

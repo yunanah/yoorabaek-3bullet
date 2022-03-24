@@ -1,7 +1,11 @@
+import { Container } from './styles';
+
 const Introduce: React.FC = () => {
   return (
     <>
-      <div>introduce</div>
+      <Container>
+        <div>Introduce</div>
+      </Container>
     </>
   );
 };

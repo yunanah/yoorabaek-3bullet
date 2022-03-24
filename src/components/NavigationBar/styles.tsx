@@ -1,14 +1,14 @@
 import styled from 'styled-components';
 
-export const Container = styled.div`
+export const Container = styled.nav`
   display: flex;
   justify-content: start;
   align-items: flex-start;
   flex-direction: column;
   color: #020202;
   background-color: #fff;
-  position: fixed;
-  left: 0;
+  position: relative;
+  /* left: 0; */
   height: 100vh;
   width: 25%;
   padding: 50px 20px 20px 80px;

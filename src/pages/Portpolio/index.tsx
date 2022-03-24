@@ -1,7 +1,11 @@
+import { Container } from './styles';
+
 const Portpolio: React.FC = () => {
   return (
     <>
-      <div>portpolio</div>
+      <Container>
+        <div>portpolio</div>
+      </Container>
     </>
   );
 };

@@ -1,5 +1,11 @@
+import { Container } from './styles';
+
 const TodoList: React.FC = () => {
-  return <></>;
+  return (
+    <>
+      <Container></Container>
+    </>
+  );
 };
 
 export default TodoList;

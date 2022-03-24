@@ -1,7 +1,11 @@
+import { Container } from './styles';
+
 const DayAnalysis: React.FC = () => {
   return (
     <>
-      <div>day analysis</div>
+      <Container>
+        <div>day analysis</div>
+      </Container>
     </>
   );
 };
