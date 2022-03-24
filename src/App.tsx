@@ -1,13 +1,11 @@
 import NavigationBar from './components/NavigationBar';
-import SessionBox from './components/SessionBox';
+import GlobalStyle from './styles/global';
 
-function App() {
-  return (
-    <div className="App">
-      <NavigationBar />
-      <SessionBox />
-    </div>
-  );
-}
+const App: React.FC = () => (
+  <>
+    <GlobalStyle />
+    <NavigationBar />
+  </>
+);
 
 export default App;
