@@ -8,5 +8,4 @@
 - MongoDB
 
 ## Redux
-![스크린샷 2022-04-06 오전 11 32 10](https://user-images.githubusercontent.com/56185615/161884166-02f73042-e005-4c2e-9477-e0850ca7b811.png)
-
+![스크린샷 2022-04-06 오전 11 36 15](https://user-images.githubusercontent.com/56185615/161884644-d3717257-da2d-4183-822d-f005346479f8.png)
